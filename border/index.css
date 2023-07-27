@@ -1,0 +1,42 @@
+form{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 600px;
+    margin: auto;
+}
+input[type=text], input[type=password] {
+    width: 200px;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid beige;
+    box-sizing: border-box;
+}
+button {
+    background-color: chartreuse;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    width: 100%;
+}
+.concelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: red;
+}
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+img.avatar {
+    width: 100px;
+    border-radius: 50%;
+}
+.concelbtn {
+    padding: 16px;
+    border-radius: 0 0 9px 9px;
+}
+span.psw {
+    float: right;
+    padding-top: 0,3;
+}
